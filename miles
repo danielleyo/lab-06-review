@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+    var something = prompt("How many miles do you drive?")
+    console.log(something)
+    var something = prompt("How many gallons of gas did you use?")
+    console.log(something)
+    prompt(miles / gallons = something)
+    var something = prompt(" Your car gets "something" miles per gallon.)
+    </script>
+  </body>
+</html>
